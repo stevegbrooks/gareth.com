@@ -1,5 +1,5 @@
 ---
-title: "Gareth Brooks Industries"
+title: "Gareth Brooks Fabrication"
 
 description: "Custom metalworking for all seasons."
 cascade:
