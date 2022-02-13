@@ -1,6 +1,6 @@
-baseURL = 'https://garethbrooksindustries.netlify.app/'
+baseURL = 'https://garethbrooksfabrication.netlify.app/'
 languageCode = 'en-us'
-title = 'Gareth Brooks Industries'
+title = 'Gareth Brooks Fabrication'
 theme = "ananke"
 
 [params]
